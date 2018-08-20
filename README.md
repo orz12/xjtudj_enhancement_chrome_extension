@@ -1,4 +1,4 @@
-# xjtudj_enhancement_chrome_extension
+# 西交党课……学习机？
 
 主体为自用油猴脚本https://github.com/orz12/xjtudj-enhancement
 
